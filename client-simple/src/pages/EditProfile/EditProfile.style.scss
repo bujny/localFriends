@@ -1,0 +1,16 @@
+@import '../../styles/variables';
+
+.edit__profile {
+  &__element {
+    background-color: $color-white !important;
+    color: $color-black;
+    border-radius: 6px;
+    border: 1px solid $color-whiteblue-dark;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 2rem;
+    padding: 1.5rem;
+    display: flex;
+  }
+  
+}
