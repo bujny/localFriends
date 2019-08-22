@@ -13,3 +13,24 @@
 - GraphQL
 
 
+### Demo
+- Rejestracja użytkownika
+![](1_rejestracja.gif)
+
+- Personalizacja konta
+![](2_edycja.gif)
+
+- Dołączanie do czatu
+![](3_czat.gif)
+
+- Dodawanie znajomych
+![](4_znajomi.gif)
+
+- Prywatne wiadomości
+![](5_pv.gif)
+
+- Prywatny czat
+![](6_prywatny.gif)
+
+
+
